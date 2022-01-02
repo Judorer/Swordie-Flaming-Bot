@@ -3,6 +3,7 @@ v229 but should work on any ver
 OS: Windows 10, Resolution: 1920p x 1080p
 
 # Guide
+- MUST RUN SCRIPT AS ADMINSTRATOR !!! (important)
 - Make game window windowed and smaller than resolution
 - Prepare a large batch of flames and use one flame on the desired item to open up the flaming window
 - Run the script and enter in desired stats (currently you are forced to enter in 2 stats
